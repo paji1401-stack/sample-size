@@ -1,6 +1,6 @@
 const CACHE_NAME = "sample-calc-cache-v1";
 const URLS_TO_CACHE = [
-	"/",
+	"./",
 	"./index.html",
 	"./manifest.json",
 
